@@ -36,6 +36,7 @@
 }
 .banner {
   width: 100%;
+  text-align: center;
 }
 .grid {
   display: grid;

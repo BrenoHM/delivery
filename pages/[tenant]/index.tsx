@@ -43,7 +43,7 @@ const Home = () => {
     <main>
       <div className={styles.mainContainer}>
         <div className={styles.banner}>
-          <Image src={banner} className={styles.imgFluid} />
+          <Image src={banner} />
         </div>
       </div>
     </main>
