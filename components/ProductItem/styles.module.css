@@ -1,0 +1,27 @@
+.container {
+    background: #FFFFFF;
+    box-shadow: 0px 8px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+.head {
+    height: 90px;
+}
+.info {
+    padding: 13px;
+}
+.info img {
+    width: 100%;
+    margin-top: -90px;
+}
+.catName {
+    font-size: 10px;
+    font-weight: 500;
+}
+.productName {
+    font-weight: 700;
+    font-size: 18px;
+}
+.price {
+    font-size: 15px;
+    font-weight: 600;
+}
